@@ -1,0 +1,333 @@
+@media only screen and (max-width: 1200px) {
+   
+    
+    .row {
+        max-width: 100%;
+        margin: 0 20px; 
+    }
+
+    header {
+        height: 80vh; 
+    }
+
+    h1 {
+        font-size: 180%; 
+        letter-spacing: 0.5px;
+    }
+
+    .hero-text-box {
+        width: 90%; 
+    }
+
+    .main-nav {
+        margin-top: 30px; 
+    }
+
+    .main-nav li {
+        margin-left: 20px; 
+    }
+
+    .main-nav li a {
+        font-size: 80%; 
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    h2 {
+        font-size: 160%;
+    }
+
+    .long-copy {
+        width: 90%; 
+        margin-left: 5%;
+    }
+
+    .meal-photo img {
+        transform: scale(1.1); 
+    }
+
+    .meals-showcase li {
+        width: 50%; 
+    }
+
+    .work-steps div {
+        font-size: 120%; 
+    }
+
+    .app-screen {
+        width: 50%; 
+    }
+
+    .plan-box {
+        width: 100%;
+    }
+
+    .plan-box div {
+        padding: 12px;
+    }
+
+    footer {
+        padding: 30px;
+    }
+
+    .footer-nav,
+    .social-icons {
+        font-size: 18px;
+    }
+
+    .footer-nav li,
+    .social-icons li {
+        margin-right: 15px; 
+    }
+}
+@media only screen and (max-width: 1023px) {
+    .row {
+        max-width: 100%;
+        margin: 0 20px;
+    }
+
+    header {
+        height: 80vh;
+    }
+
+    h1 {
+        font-size: 180%;
+        letter-spacing: 0.5px;
+    }
+
+    .hero-text-box {
+        width: 90%;
+    }
+
+    .main-nav {
+        margin-top: 30px;
+    }
+
+    .main-nav li {
+        margin-left: 20px;
+    }
+
+    .main-nav li a {
+        font-size: 80%;
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    h2 {
+        font-size: 160%;
+    }
+
+    .long-copy {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .meal-photo img {
+        transform: scale(1.1);
+    }
+
+    .meals-showcase li {
+        width: 50%;
+    }
+
+    .work-steps div {
+        font-size: 120%;
+    }
+
+    .app-screen {
+        width: 50%;
+    }
+
+    .plan-box {
+        width: 100%;
+    }
+
+    .plan-box div {
+        padding: 12px;
+    }
+
+    footer {
+        padding: 30px;
+    }
+
+    .footer-nav,
+    .social-icons {
+        font-size: 18px;
+    }
+
+    .footer-nav li,
+    .social-icons li {
+        margin-right: 15px;
+    }
+    
+}
+@media only screen and (max-width: 767px) {
+    .row {
+        max-width: 100%;
+        margin: 0 10px;
+    }
+
+    header {
+        height: 60vh;
+    }
+
+    h1 {
+        font-size: 150%;
+    }
+
+    .hero-text-box {
+        width: 85%;
+    }
+
+    .main-nav {
+        margin-top: 20px;
+    }
+
+    .main-nav li {
+        margin-left: 10px;
+    }
+
+    .main-nav li a {
+        font-size: 70%;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    h2 {
+        font-size: 140%;
+    }
+
+    .long-copy {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .meal-photo img {
+        transform: scale(1.05);
+    }
+
+    .meals-showcase li {
+        width: 100%;
+    }
+
+    .work-steps div {
+        font-size: 100%;
+    }
+
+    .app-screen {
+        width: 60%;
+    }
+
+    .plan-box {
+        width: 100%;
+    }
+
+    .plan-box div {
+        padding: 10px;
+    }
+
+    footer {
+        padding: 20px;
+    }
+
+    .footer-nav,
+    .social-icons {
+        font-size: 16px;
+    }
+
+    .footer-nav li,
+    .social-icons li {
+        margin-right: 10px;
+    }
+    .step-row{
+        display: inline-block;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .row {
+        max-width: 100%;
+        margin: 0 5px;
+    }
+
+    header {
+        height: 50vh;
+    }
+
+    h1 {
+        font-size: 130%;
+    }
+
+    .hero-text-box {
+        width: 90%;
+    }
+
+    .main-nav {
+        margin-top: 10px;
+    }
+
+    .main-nav li {
+        margin-left: 5px;
+    }
+
+    .main-nav li a {
+        font-size: 60%;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+
+    h2 {
+        font-size: 120%;
+    }
+
+    .long-copy {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .meal-photo img {
+        transform: scale(1.05);
+    }
+
+    .meals-showcase li {
+        width: 100%;
+    }
+
+    .work-steps div {
+        font-size: 90%;
+    }
+
+    .app-screen {
+        width: 70%;
+    }
+
+    .plan-box {
+        width: 100%;
+    }
+
+    .plan-box div {
+        padding: 8px;
+    }
+
+    footer {
+        padding: 15px;
+    }
+
+    .footer-nav,
+    .social-icons {
+        font-size: 14px;
+    }
+
+    .footer-nav li,
+    .social-icons li {
+        margin-right: 5px;
+    }
+   
+}
